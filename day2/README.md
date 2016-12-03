@@ -37,14 +37,6 @@ You finally arrive at the bathroom (it's a several minute walk from the lobby so
 5 6 7 8 9
   A B C
     D
-    
-        1
-      2 3 4
-    5 6 7 8 9
-  A B C D E F G
-    H I J K L
-      M N O
-        P
 ```
 You still start at "5" and stop when you're at an edge, but given the same instructions as above, the outcome is very different:
 
