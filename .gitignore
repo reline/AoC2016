@@ -1,3 +1,9 @@
 .idea
 out
 *.pyc
+*.csproj
+.vscode
+bin
+obj
+project.json
+project.lock.json
