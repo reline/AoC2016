@@ -7,3 +7,5 @@ bin
 obj
 project.json
 project.lock.json
+cmake-build-debug
+CMakeLists.txt
