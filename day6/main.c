@@ -58,6 +58,7 @@ int main(void)
 
     // deallocate
     free(answer_one);
+    free(answer_two);
     for (int i = 0; i < x; i++){
         free(alpha[i]);
     }
